@@ -8,7 +8,7 @@
 
 ## Members
 
-<table>
+<table style="text-align: center">
   <tr>
     <td colspan="1">Designer</td>
     <td colspan="3">Front-End</td>
