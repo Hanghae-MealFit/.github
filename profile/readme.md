@@ -1,5 +1,8 @@
 # ⏰ **MealFit** 💪
 
+![메인페이지](https://user-images.githubusercontent.com/97043760/190027130-1c4efbda-aea5-41ff-8c7b-7b8425f9e5f6.png)
+
+
 ## Intro
 
 👉🏻 Web Site : **http://mealfit.co.kr/**  
@@ -15,14 +18,15 @@
 - 설정한 간헐적 단식 시간을 타이머 형식으로 볼 수가 있다.
 - 몸무게를 그래프를 통하여 변화를 관찰 할 수가 있다.
 - 식단을 입력하면 그 식단의 섭취량에 따라 목표하는 영양성분에 대해 관리 할 수 있다.
-### 개발 기간: 2022년 8월 05일 ~ 9월 16일
-### **📋 와이어 프레임**
-👉🏻 [**바로가기**](https://www.notion.so/mealfit/99-1-Keukppock-MealFit-0b5590c999274a9ba1271e85774778fd#44d92648e1f6465e927f4116592c18c6)  
-### **🏷 API Table**
-👉🏻 [**바로가기**](https://www.notion.so/mealfit/99-1-Keukppock-MealFit-0b5590c999274a9ba1271e85774778fd#ec54c369f1ad46608ce71656df6ddbf8)
 
 
-## Members
+### [**📋 와이어 프레임**](https://www.notion.so/mealfit/99-1-Keukppock-MealFit-0b5590c999274a9ba1271e85774778fd#44d92648e1f6465e927f4116592c18c6)  
+
+### [**🏷 API Table**](https://www.notion.so/mealfit/99-1-Keukppock-MealFit-0b5590c999274a9ba1271e85774778fd#ec54c369f1ad46608ce71656df6ddbf8)
+
+### 개발 기간 : 2022년 8월 05일 ~ 9월 16일
+
+### Members
 
 <table style="text-align: center">
   <tr>
@@ -48,7 +52,9 @@
     <td><img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/></td>
 </table>
 
----
+
+
+
 ## 서비스 아키텍처
 
 ![아키텍쳐](https://user-images.githubusercontent.com/97043760/190024325-c7c82839-378e-494f-8fd4-157cfdcac920.png)
