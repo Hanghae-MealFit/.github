@@ -57,7 +57,7 @@
 
 ## 서비스 아키텍처
 
-![아키텍쳐](https://user-images.githubusercontent.com/97043760/190024325-c7c82839-378e-494f-8fd4-157cfdcac920.png)
+![아키텍쳐](https://user-images.githubusercontent.com/107831623/190847598-6df4e97b-c393-4989-92c3-f3029358c29f.png)
 
 ![cicd](https://user-images.githubusercontent.com/97043760/190021299-5470c21f-3ef8-43b8-ab3d-d16a782daf41.png)
 ---
